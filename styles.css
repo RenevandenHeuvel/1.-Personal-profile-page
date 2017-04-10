@@ -206,12 +206,19 @@ a.social {
 a.twitter {
   background-image: url(images/twitter.svg);
 }
-a.linkedin {
-  background-image: url(images/linkedin.svg);
-}
+
 a.github {
   background-image: url(images/github.svg);
 }
+
+a.linkedin {
+  background-image: url(images/linkedin.svg);
+}
+
+a.facebook {
+  background-image: url(images/facebook.svg);
+}
+
 a.social:hover {
   opacity: 1;
 }
@@ -220,7 +227,7 @@ a.social:hover {
   clear: both;
 }
 
-
+ 
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
